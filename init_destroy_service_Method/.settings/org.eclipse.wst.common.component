@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="init_destroy_service_Method">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="init_destroy_service_Method"/>
+        <property name="java-output-path" value="/init_destroy_service_Method/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,7 @@
+1)Develop and Deploy a web application in which servlet generates a welcome message to the client side. (Project: Servlet-Welcome)
+2)Develop and Deploy a web application to perform addition of two numbers. (Project: Servlet-Addition)
+3)Develop and Deploy a web application in which end user should be able to enter basic salary and and return net/gross salary. (Project: Basic_salary-Gross_salary) 
+4)init() , service() ,destroy()      (Project: init_destroy_service_Method)
+5)Develop and Deploy a web application in which end user enter account number from html page and gat balance details. (Project: Servlet-JDBC)
+6)Develop and Deploy a web application in which end user enters account details repeatedly. (Project: InsertData_repeatedly_into_DB)
+
