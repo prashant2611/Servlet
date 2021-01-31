@@ -1,0 +1,28 @@
+mysql> use practice;
+Database changed
+mysql> show tables;
++--------------------+
+| Tables_in_practice |
++--------------------+
+| account            |
+| college            |
+| emp                |
+| rough              |
+| stud1              |
++--------------------+
+5 rows in set (0.24 sec)
+
+mysql> select * from account;
++------+----------+---------+
+| acno | acname   | acbal   |
++------+----------+---------+
+| 1001 | Prashant |  100000 |
+| 1002 | Nilesh   |   50000 |
+| 1003 | Gauri    |  500000 |
+| 1004 | Vijay    | 8956265 |
+| 1005 | Tejas    |   60000 |
+| 1006 | Koyal    |  542835 |
+| 1007 | Geeta    |   69875 |
+| 1008 | Ramesh   |  987452 |
++------+----------+---------+
+8 rows in set (0.00 sec)
